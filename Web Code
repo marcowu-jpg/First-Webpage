@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About Me</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 600px;
+      margin: 40px auto;
+      background-color: #f4f4f9;
+    }
+    h1 {
+      color: #1a4fd6;
+    }
+  </style>
+</head>
+<body>
+  <h1>Marco Wu</h1>
+  <p>First Webpage!</p>
+  
+  <h4>Bio</h4>
+  <ul>I am a biomedical engineering student at Toronto Metropolitan University with an interest in HMI inclduing BCI, GVS and TENS devices.</ul>
+
+  <h3>My Projects</h3>
+  <ul>
+    <li>Indymill CNC</li>
+    <li>TENS 6 Channel Stimulater</li>
+    <li>GVS</li>
+  </ul>
+  
+  <h3>Skills</h3>
+  <ol>
+    <li>CAD</li>
+    <li>FEA</li>
+    <li>Ansys(CFD)</li>
+    <li>Python</li>
+    <li>Deep Learning</li>
+    <li>PCB Design(KiCad/Altium)</li>
+    <li>Matlab/Simulink</li>
+  </ol>
+</body>
+</html>
